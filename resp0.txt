@@ -1,0 +1,9 @@
+cd Desktop
+git clone https://github.com/IIC2115/Syllabus.git
+git clone https://github.com/CataWied/Lab0.git
+cd Lab0
+git add *
+git commit -m "subi texto"
+git push
+git pull
+doskey /History
